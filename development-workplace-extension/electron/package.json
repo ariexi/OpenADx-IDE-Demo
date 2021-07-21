@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@theia/development-workplace-example-electron",
+  "name": "@theia/development-workplace-extension-electron",
   "productName": "OpenADx IDE Electron Example",
   "version": "1.5.0",
   "main": "src-gen/frontend/electron-main.js",

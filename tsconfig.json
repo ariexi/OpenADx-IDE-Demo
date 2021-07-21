@@ -177,6 +177,12 @@
       ],
       "electron-app/*": [
         "development-workplace-extension/electron-app/*"
+      ],
+      "@theia/development-workplace-example-browser/*": [
+        "development-workplace-extension/browser/*"
+      ],
+      "@theia/development-workplace-example-electron/*": [
+        "development-workplace-extension/electron/*"
       ]
     }
   }
